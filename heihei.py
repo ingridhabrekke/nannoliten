@@ -6,3 +6,11 @@ def isNannoLiten():
         return True
     else:
         return False
+    
+
+def isPlingPling():
+    pling = "eling"
+    if (pling == "pling"):
+        return True
+    else:
+        return False
